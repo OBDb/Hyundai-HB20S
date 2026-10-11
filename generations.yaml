@@ -1,0 +1,12 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_HB20"
+
+generations:
+  - name: "First Generation"
+    start_year: 2013
+    end_year: 2019
+    description: "The sedan version of the HB20 built in Brazil, with 1.0 L Kappa and 1.6 L Gamma engines."
+  - name: "Second Generation"
+    start_year: 2020
+    end_year: null
+    description: "With 1.0 L Kappa and 1.0 L turbo engines."
